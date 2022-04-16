@@ -8,10 +8,10 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "APP_NAME": "Laravel Vue Products App",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://laravel-vue-products-app.com",
-        "APP_KEY":"base64:rfU2GMrHzhTQF9153mev4eojZnAumNpn2ptAxLIKyLY=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
