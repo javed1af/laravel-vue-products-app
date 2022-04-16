@@ -9,7 +9,7 @@
     }],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://laravel-vue-products-app.com",
         "APP_KEY":"base64:rfU2GMrHzhTQF9153mev4eojZnAumNpn2ptAxLIKyLY=",
 
